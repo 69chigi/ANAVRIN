@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form-control.me-2{
+    width: 25vw;
+}
+body{
+    background-color: black;
+    color: white;
+}
